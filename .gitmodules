@@ -1,3 +1,6 @@
 [submodule "calc"]
 	path = calc
 	url = https://github.com/proudynyu/calculator-js
+[submodule "treeMenu-js"]
+	path = treeMenu-js
+	url = https://github.com/proudynyu/tree-menu-js
